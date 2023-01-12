@@ -1,5 +1,7 @@
 # 09-README-Generator
 
+[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
 ## User Story
 AS A developer
 I WANT a README generator
@@ -22,4 +24,18 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+## Screencastify Demo
+<!-- ![Demo](/assets/demo.gif) still need to insert video  -->
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Licensed under the MIT License; you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+https://opensource.org/licenses/MIT
+
+## Questions
+
+https://github.com/ryanueva/ ryanueva@gmail.com
+
